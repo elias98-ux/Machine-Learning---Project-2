@@ -1,5 +1,5 @@
 # Machine Learning - Project 2
-This repository for Project 2 of the FYS-STK3155/4155 course. 
+This repository for Project 2 of the FYS-STK3155/4155 course. For the project description, see the first notebook in folder "code"
 
 The folder "code" includes three Jupyter notebooks containing the code. The first notebook is for part a) - c), the second for d), and the final for part e). Part f) was answered in the conclusion of the PDF report.
 
